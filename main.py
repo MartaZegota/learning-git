@@ -1,1 +1,1 @@
-print("that's all for today")
+print("that's all for today. Really?")
